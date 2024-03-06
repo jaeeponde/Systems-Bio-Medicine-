@@ -1,6 +1,6 @@
 Activities Completed:
 - Bioconductor Setup: Set up the Bioconductor environment and explored its functionalities and applications in genomic data analysis.
-- WGCNA Understanding and Reports: Delved into the principles of Weighted Gene Co-expression Network Analysis (WGCNA) and started working on reports based on our understanding and findings.
+- WGCNA Understanding and Reports: Delved into the principles of Weighted Gene Co-expression Network Analysis (WGCNA).
 - Used mamba forge to install bioconductor and it's required packages into a new environment. 
 
 Next Steps:
