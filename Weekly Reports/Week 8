@@ -1,1 +1,8 @@
+Activities Completed:
+- Understanding Github documentation of WGCNA in python https://github.com/mortazavilab/PyWGCNA 
+- Implementation of WGCNA algorithm with sample data 
+- Leanred how to reduce size of data frames and conversion to annotated data
 
+Next Steps:
+- Continue following github tutorials of wgcna protocol 
+- Implementation of WGCNA algorithm with real data
